@@ -1,1 +1,1 @@
- cd : Display current directory contents in a long format
+ pwd : Display current directory contents in a long format
